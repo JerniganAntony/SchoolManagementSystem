@@ -6,7 +6,7 @@ import java.util.List;
  * Many teachers, many students.
  * Implements teachers and student
  * using an ArrayList.
- * Created by Rakshith on 4/3/2017.
+ * Created by Jernigan on 9/5/2021.
  */
 public class School {
 
